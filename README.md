@@ -1,6 +1,6 @@
 # UI5
 
-Android导航和视图切换功能demo。
+实现Android Swipe View，Android导航和视图切换功能demo。
 
 顶部导航栏
 Actionbar
